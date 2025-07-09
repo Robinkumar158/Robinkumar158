@@ -1,0 +1,32 @@
+🎬 More Sample IMDB Movie Reviews ( Datasets with Sentiment)
+No.	Review Text	                                                                           Sentiment
+1	"Absolutely loved this movie. The storyline was gripping and emotional."	               Positive
+2	"A complete waste of time. Poor acting and predictable plot."	                           Negative
+3	"Not bad, but could have been much better. Average performances overall."                Negative
+4	"Fantastic cinematography and brilliant acting by the lead role!"	                       Positive
+5	"Boring movie. Fell asleep halfway through. Wouldn’t recommend."	                       Negative
+6	"One of the best films I’ve seen this year. Truly heartwarming."	                       Positive
+7	"Terrible script, poor direction. It was hard to sit through the whole film."	           Negative
+8	"An emotional rollercoaster. The cast gave outstanding performances."                    Positive
+9	"Mediocre at best. The movie lacked depth and originality."	                             Negative
+10	"A must-watch for thriller fans. Keeps you hooked till the end!"	                     Positive
+11	"The plot twist at the end was unexpected and brilliant!"	                             Positive
+12	"I regret watching this. Weak dialogues and flat acting."                            	 Negative
+13	"What a beautiful story. It stayed with me long after the credits rolled."	           Positive
+14	"Poor direction ruined what could have been a great film."	                           Negative
+15	"Loved the soundtrack! It matched the mood perfectly."	                               Positive
+16	"Felt like the story was dragged unnecessarily. Too slow."                     	       Negative
+17	"Perfect mix of action, drama, and emotion. A complete package!"	                     Positive
+18	"Bad editing and inconsistent character development."	                                 Negative
+19	"This movie deserves an award. Simply amazing."	                                       Positive
+20	"Clichéd storyline and forgettable performances."             	                       Negative
+21	"An inspiring and powerful message told through amazing visuals."           	         Positive
+22	"Waste of a great cast. Nothing new or interesting."	                                 Negative
+23	"Laugh-out-loud comedy with clever writing!"	                                         Positive
+24	"I don't understand the hype. It was just boring."	                                   Negative
+25	"Best animation I’ve seen in a long time. Kids and adults will love it!"	             Positive
+26	"Felt like a low-budget film with no real effort."	                                   Negative
+27	"Masterpiece. The director’s vision is on full display here."	                         Positive
+28	"Predictable from start to finish. No surprises."                                    	 Negative
+29	"Totally exceeded my expectations. Brilliantly made."	                                 Positive
+30	"Plot holes everywhere. Didn’t make any sense."	                                       Negative
