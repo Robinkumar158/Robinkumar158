@@ -1,43 +1,22 @@
-# 🎬 IMDB Movie Review Sentiment Analysis
+INTRODUCTION....
+### Hi there 👋 I'm Robin Kumar
+🎓 M.Sc. Computational Science & Applications | 💻 Passionate about Data Science, Machine Learning & Web Development
+🔭 Currently working on: Placement Prediction Project, Sentiment Analysis, and Data Structure Algorithms in C.
+🌱 Learning: Deep Learning, Git & GitHub, and Advanced Python
+📫 How to reach me: kumarrobin1947@gmail.com
 
-This project focuses on performing **sentiment analysis** on IMDB movie reviews using machine learning and natural language processing (NLP) techniques. The goal is to classify movie reviews as either **positive** or **negative** based on their textual content.
+SKILLS....
+### 🛠️ Languages & Tools
+- Programming: C, Python, PowerBI
+- Tools: Git, GitHub, Google Colab, Jupyter, VS Code
+- Libraries: Pandas, NumPy, scikit-learn, TensorFlow
+- Other: Linux, SQL, Matplotlib, seaborn
 
-## 📌 Objective
-
-To build a model that can automatically analyze movie reviews and determine the **sentiment** (positive/negative) expressed in the text.
-
-### 📁 Dataset Structure
-
-The dataset consists of two columns:
-
-- `text`: The actual movie review written by a user.
-- `sentiment`: The label or output — typically `positive` or `negative`.
-
-#### Example:
-
-| text                                           | sentiment |
-|------------------------------------------------|-----------|
-| "An amazing movie with brilliant acting!"      | positive  |
-| "Terribly slow and boring. Not recommended."   | negative  |
-
-## 🧠 Techniques Used
-
-- Text preprocessing (lowercasing, stopword removal, stemming/lemmatization)
-- Vectorization (TF-IDF or CountVectorizer)
-- Classification models: Logistic Regression, Naive Bayes, or Transformers (e.g., BERT)
-- Model evaluation using Accuracy, Precision, Recall, F1-score
-- Word clouds and confusion matrix visualizations
-
-## 🔍 Key Insights
-
-- Sentiment analysis helps in understanding audience reactions at scale.
-- Words like “great,” “amazing,” “fantastic” often indicate positive sentiment.
-- Words like “worst,” “boring,” “waste” are common in negative reviews.
-
-## ✅ Outcome
-
-A machine learning pipeline that can accurately classify IMDB reviews based on sentiment. This project demonstrates how NLP can be applied to real-world text data for opinion mining and social media analysis.
-
----
-
-Feel free to fork the repo and try different models or NLP techniques. Contributions and feedback are welcome!
+PROJECTS....
+### 🔥 Featured Projects
+- 🎯 [Placement Prediction Project](https://github.com/Robinkumar158/placement-prediction)
+  - Predicts student placement chances based on CGPA & Resume Score.
+- 🎬 [IMDB Sentiment Analysis](https://github.com/Robinkumar158/imdb-sentiment)
+  - Analyzes movie reviews to classify sentiments as Positive/Negative.
+- 💻 [Data Structures in C](https://github.com/Robinkumar158/data-structures-c)
+  - Simple implementations of Linked Lists, Graphs, Trees, and more.
