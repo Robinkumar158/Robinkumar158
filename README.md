@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robin Kumar</h1>
+<h1 align="center">Hi , I'm Robin Kumar</h1>
 <h3 align="center">Postgraduate Student | BHU | Passionate about Data Science & Web Development</h3>
 
 ---
@@ -8,20 +8,20 @@ I’m currently pursuing my **M.Sc. in Computational Science and Applications** 
 
 ---
 
-💡 **Currently Working On**
+ **Currently Working On**
 - 🎯 Placement Prediction Project
 - 🎬 IMDB Sentiment Analysis
 - 🔧 Data Structure Algorithms in C
 
-📚 **Currently Learning**
-- 🤖 Deep Learning, ML/AI
-- 🐍 Advanced Python
-- 💾 SQL & Databases
-- 🧠 Git & GitHub
+ **Currently Learning**
+-  Deep Learning, ML/AI
+-  Advanced Python
+-  SQL & Databases
+-  Git & GitHub
 
 ---
 
-🛠️ **Skills & Tools**
+ **Skills & Tools**
 
 **Programming Languages:**  
 `C` `C++` `Python` `R` `SQL` `HTML` `CSS` `JavaScript`
@@ -33,37 +33,36 @@ I’m currently pursuing my **M.Sc. in Computational Science and Applications** 
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow`
 
 **Other Skills:**  
-- 📊 Data Visualization using Python, R, Excel  
-- 👨‍💻 Frontend Development  
-- 📈 Dashboard Creation with Excel, SQL  
-- 🧠 AI/ML, Deep Learning, NLP  
-- 📐 Mathematics and Statistics  
-- 🗣️ Communication, Leadership, Critical Thinking
+-  Data Visualization using Python, R, Excel  
+-  Frontend Development  
+-  Dashboard Creation with Excel, SQL  
+-  AI/ML, Deep Learning, NLP  
+-  Mathematics and Statistics  
+- 🗣 Communication, Leadership, Critical Thinking
 
 ---
 
-📂 **Projects**
+ **Projects**
 
 | Project | Description |
 |--------|-------------|
-| 💼 **Placement Prediction Project** | Predicts placement chances using CGPA & Resume Score |
-| 🎥 **IMDB Sentiment Analysis** | Classifies movie reviews into positive/negative |
-| 📘 **Data Structures in C** | Implemented Linked Lists, Graphs, Trees, etc. |
-| ☕ **Coffee Shop Sales Analysis** | Visualized sales trends and customer patterns |
-| 🏅 **Olympic Data Analysis** | Analyzed country and athlete-wise Olympic performance |
-| 🧠 **OCD Trends Analysis** | Explored OCD trends using real-world datasets |
-| 🌸 **Iris Flower Classification** | ML-based classification of iris flowers |
-| 🏫 **School Management System** | Built a full webpage to manage school data |
+|  **Placement Prediction Project** | Predicts placement chances using CGPA & Resume Score |
+|  **IMDB Sentiment Analysis** | Classifies movie reviews into positive/negative |
+|  **Data Structures in C** | Implemented Linked Lists, Graphs, Trees, etc. |
+|  **Coffee Shop Sales Analysis** | Visualized sales trends and customer patterns |
+|  **Olympic Data Analysis** | Analyzed country and athlete-wise Olympic performance |
+|  **OCD Trends Analysis** | Explored OCD trends using real-world datasets |
+|  **Iris Flower Classification** | ML-based classification of iris flowers |
+|  **School Management System** | Built a full webpage to manage school data |
 
 ---
 
-📬 **Contact Me**
+ **Contact Me**
 
-- 📧 Email: [kumarrobin1947@gmail.com](mailto:kumarrobin1947@gmail.com)  
-- 🐙 GitHub: [github.com/Robinkumar158](https://github.com/Robinkumar158)  
-- 💼 LinkedIn: [linkedin.com/in/robin-kumar-2a107a329](https://linkedin.com/in/robin-kumar-2a107a329)  
-- 📍 Location: Banaras, India
+-  Email: [kumarrobin1947@gmail.com](mailto:kumarrobin1947@gmail.com)  
+-  GitHub: [github.com/Robinkumar158](https://github.com/Robinkumar158)  
+-  LinkedIn: [linkedin.com/in/robin-kumar-2a107a329](https://linkedin.com/in/robin-kumar-2a107a329)  
+-  Location: Banaras, India
 
 ---
 
-⭐ _“Striving to turn data into insights, and insights into action.”_
