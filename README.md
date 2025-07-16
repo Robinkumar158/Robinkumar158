@@ -9,9 +9,9 @@ I’m currently pursuing my **M.Sc. in Computational Science and Applications** 
 ---
 
  **Currently Working On**
-- 🎯 Placement Prediction Project
-- 🎬 IMDB Sentiment Analysis
-- 🔧 Data Structure Algorithms in C
+-  Placement Prediction Project
+-  IMDB Sentiment Analysis
+-  Data Structure Algorithms in C
 
  **Currently Learning**
 -  Deep Learning, ML/AI
@@ -38,7 +38,7 @@ I’m currently pursuing my **M.Sc. in Computational Science and Applications** 
 -  Dashboard Creation with Excel, SQL  
 -  AI/ML, Deep Learning, NLP  
 -  Mathematics and Statistics  
-- 🗣 Communication, Leadership, Critical Thinking
+-  Communication, Leadership, Critical Thinking
 
 ---
 
